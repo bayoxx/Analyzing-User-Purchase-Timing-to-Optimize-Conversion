@@ -4,7 +4,7 @@
 ---
 
 ### **Project Description:**
-This project centers on analyzing user purchase behavior on a website, specifically focusing on the time it takes users to make their first purchase from their initial session. By examining this “time-to-purchase” metric, this analysis aims to reveal patterns and trends in user engagement and purchasing behaviour to support strategic decisions that enhance user experience and improve conversion rates. 
+This project centres on analyzing user purchase behaviour on a website, specifically focusing on the time it takes users to make their first purchase from their initial session. By examining this “time-to-purchase” metric, this analysis aims to reveal patterns and trends in user engagement and purchasing behaviour to support strategic decisions that enhance user experience and improve conversion rates. 
 
 ---
 
@@ -24,7 +24,7 @@ The primary objective of this project is to determine the daily dynamics of time
 
 3. **Analysis & Visualization:**
    - Analyzed average time-to-purchase durations by day, weekday, and month to determine trends.
-   - Used Tableau for creating dynamic visualizations of time-to-purchase distributions and order trends.
+   - I used Tableau to create dynamic visualizations of time-to-purchase distributions and order trends.
 
 ---
 
@@ -66,4 +66,8 @@ This project, documented in a product analytics dashboard, highlights the signif
 
 Here is the link to the [Tableau dashboard.](https://public.tableau.com/views/product_analytics/Productanalysticsdashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) The link to the spreadsheet is given [here](https://docs.google.com/spreadsheets/d/1pxDAAQlLWfAxbg2lcL_azMTPNHkNrAFr9SNdQx7gkB0/edit?usp=sharing)
 
-Note: I have also attached the .sql file to this repository. You can check my presentation slide [here](https://github.com/TuringCollegeSubmissions/byusuf-PA.1.3/blob/main/Product%20Analytics.pdf). Thank you for your time.
+Note: I have also attached the .sql file to this repository. You can check my presentation slide [here](https://github.com/bayoxx/product-analyst/blob/main/Product%20Analytics.pdf). Thank you for your time.
+
+<img width="1093" alt="Screenshot 2024-11-28 at 6 27 01 AM" src="https://github.com/user-attachments/assets/a18cedaa-1ff6-45e5-95b1-31bc4efd091b">
+
+
